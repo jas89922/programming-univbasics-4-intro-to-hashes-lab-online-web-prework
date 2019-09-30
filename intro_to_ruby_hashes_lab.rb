@@ -33,6 +33,8 @@ end
 
 def update_counting_hash(hash, key)
   update_counting_hash = 
+  if hash[key]
+    
     
   }
   # given a hash an a key as parameters, return an updated hash
